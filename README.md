@@ -160,7 +160,8 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/vishnu-j-chakraborty-ab7929280/)
-- **Email**: [Please feel free to connect](chakrabortyvishnuj@gmail.com)
+- **Email**: [chakrabortyvishnuj@gmail.com]
+
 
 
 
